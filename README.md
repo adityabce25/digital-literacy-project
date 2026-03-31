@@ -1,49 +1,73 @@
 # digital-literacy-project
-📌 Overview
+Project Overview
+This repository contains the documentation and findings for the Digital Literacy & Professional Development project. The project focuses on establishing a professional digital footprint, mastering modern communication tools, and understanding critical cybersecurity threats in the Indian digital ecosystem.
 
-The Digital Literacy Project aims to empower individuals with essential digital skills required in today’s technology-driven world. This project focuses on improving knowledge of computers, the internet, and digital tools to help users navigate online platforms safely and efficiently.
 
-🎯 Objectives
+Author: Aditya Choudhary 
 
-To enhance basic computer knowledge
-To promote safe and responsible internet usage
-To educate users about digital communication tools
-To spread awareness about cybersecurity and online privacy
-To bridge the digital divide among different communities
+Registration Number: 25BCE11161 
 
-💡 Features
+Course Code: CSA2001 
 
-Introduction to computers and operating systems
-Internet browsing and search techniques
-Email creation and communication
-Use of productivity tools (Word, Excel, etc.)
-Awareness of cyber threats (phishing, scams, malware)
-Social media usage guidelines
+Branch: CSE [CORE], B.Tech 
 
-🛠️ Technologies Used
 
-Basic Computer Systems
-Internet Browsers (Chrome, Edge, etc.)
-Microsoft Office / Google Workspace
-Online Learning Platforms
+Project Tasks
+1. Professional Presentation with Canva
 
-👥 Target Audience
+Utilized Canva to design a high-fidelity presentation focused on visual storytelling and professional branding.
 
-Beginners with little or no digital knowledge
-Students and rural communities
-Elderly individuals adapting to technology
+Focus: Mastering visual hierarchy, typography, and layout to make complex topics like cybersecurity accessible.
 
-📚 Learning Outcomes
+Key Learning: Practiced creative discipline to ensure visuals enhanced the message without cluttering the content.
 
-By the end of this project, users will be able to:
-Operate a computer and perform basic tasks
-Browse the internet safely
-Communicate effectively using digital tools
-Protect personal information online
+2. Professional Platform Integration
 
-🚀 Future Scope
+Established a professional presence across three core platforms to act as a living portfolio for the next four years:
 
-Adding interactive tutorials and videos
-Expanding to mobile digital literacy
-Conducting workshops and training sessions
-Integrating AI-based learning modules
+
+LinkedIn: For professional networking with peers, professors, and industry leaders.
+
+GitHub: For version control and showcasing technical proficiency through code repositories.
+
+Kaggle: For sharpening data science and machine learning skills through real-world challenges.
+
+
+3. Digital Literacy Awareness Quiz
+
+Designed a five-question quiz using Google Forms to assess digital literacy among batchmates.
+
+Topics: Password hygiene, phishing recognition, and safe browsing.
+
+Key Learning: Developed skills in structured data collection and understanding data integrity as a foundation for AIML studies.
+
+
+4. Responsible Social Media Use
+
+Analyzed the impact of digital communication and the necessity of maintaining professional integrity.
+
+
+Case Study: Explored the consequences of "private" group chat leaks and the importance of digital restraint.
+
+
+Guidelines: Compiled a "Do's and Don'ts" checklist covering privacy settings, 2FA, and fact-checking.
+
+5. Cybersecurity Awareness & Prevention
+
+Detailed investigation into UPI "Collect Request" Fraud, a prevalent financial cybercrime in India.
+
+Analysis: Step-by-step breakdown of how social engineering is used to trick victims into entering their UPI PIN to "receive" money.
+
+Reflection: Identified the psychological pressure used by scammers and implemented personal safety habits, such as setting transaction limits.
+
+Tools & Technologies Used
+Design: Canva 
+
+Collaboration & Data: Google Forms 
+
+Professional Networking: LinkedIn, GitHub, Kaggle 
+
+Cybersecurity Reporting: National Cyber Crime Portal (1930 / cybercrime.gov.in)
+
+Conclusion
+This project bridges the gap between technical theory and practical digital application. It emphasizes that as a CSE student, maintaining a secure, professional, and ethical digital presence is as vital as technical expertise.
